@@ -52,10 +52,10 @@ def v0_read_handler(value): #read the value
 	else:
 		coibao.value(1) #bat coi bao
 #gưi email
-sender_email='lehoangchinh1111@gmail.com'
+sender_email='miennamtienve@gmail.com'
 sender_name='ESP32'
-sender_app_password='dbcz muek qaxl ahxr'
-recipient_email='hoangchinh38a1111@gmail.com'
+sender_app_password='jxmm dvgm madm gwes'
+recipient_email='lethanhtannhat@gmail.com'
 #Hàm gửi email
 def send_email(sender_email, sender_name, sender_app_password, recipient_email, email_subject, email_message):
     try:
